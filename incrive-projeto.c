@@ -1,6 +1,9 @@
 
 int iron(){
-	// todo
+	int nemo_troxa = 0;
+	faz_coisa(&nemo_troxa);
+	termina_trabalho(nemo_troxa);
+	return nemo_troxa;
 }
 
 int ravila(){
@@ -20,15 +23,32 @@ int euzivam(){
 	I'm Batman
 	
 }
+void holanda(){
+ console.readline();
+//c
+}
 
 int bruno (){
 	//varios codigo doidera total varias parada
 }
 
 int pedalinho (){
-	deleteVI();
+	hu3 altererei aqui
+	deleteVIM();
 }
 
-int main(){
+int pedro(){
+	//todo
+	//comentario
+}
+int mãin(){
 	// todo mundo TODO
+	int var;
+	scanf("%d", &var)
+	abskjdbsa
+
+	aslfk
+
+	printf("batata");
+	iron(euzivam(var));
 }
