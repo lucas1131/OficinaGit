@@ -1,3 +1,15 @@
+int module_iron(){
+	sandf
+	fadsnkf
+	adsf
+	dsaf
+	sadf
+	sadgfsgdkag
+	falgasd
+
+	return asldfkn
+}
+
 
 int iron(){
 	int nemo_troxa = 0;
