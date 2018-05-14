@@ -13,6 +13,12 @@ printf("Hello world");
 int euzivam(){
 	// todo
 	// Olha esse incrivel projeto O.o
+	Oi, turo bom?
+	O que ta cotesseno?
+	Alguem mi ajuda
+	Please!
+	I'm Batman
+	
 }
 
 int bruno (){
