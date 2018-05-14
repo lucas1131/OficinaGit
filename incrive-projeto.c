@@ -1,6 +1,9 @@
 
 int iron(){
-	// todo
+	int nemo_troxa = 0;
+	faz_coisa(&nemo_troxa);
+	termina_trabalho(nemo_troxa);
+	return nemo_troxa;
 }
 
 int ravila(){
