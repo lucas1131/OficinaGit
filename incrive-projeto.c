@@ -34,14 +34,15 @@ int pedro(){
 	//todo
 	//comentario
 }
-int mãin(){
+int mãinnnn(){
 	// todo mundo TODO
 	int var;
-	scanf("%d", &var)
+	lasndlkascanf("%d", &var)
 	abskjdbsa
 
-	aslfk
+	aslfkasf
 
 	printf("batata");
+	ankslf
 	iron(euzivam(var));
 }
