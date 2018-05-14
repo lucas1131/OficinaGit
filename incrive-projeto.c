@@ -41,9 +41,8 @@ int pedro(){
 	//todo
 	//comentario
 }
-int mãin(){
-	// todo mundo TODO
-/*puti train tati train puti tarararati train
+int main(){
+*puti train tati train puti tarararati train
 bolo's recipe
 200g de farinha
 4 ovos
@@ -55,12 +54,25 @@ prontof(esta pronto);
 */
 holanda();
 holanda(2);
-	int var;
-	scanf("%d", &var)
-	abskjdbsa
+	
+	if (wake me up)
+	{
+		wake me up inside;
+	}
+	else
+	{
+		cant wake up;
+	}
+	
+	int fome, paodequeijo = 10;
 
-	aslfk
-
-	printf("batata");
 	iron(euzivam(var));
+	for (i=0;i<paodequeijo;i++){
+		fome = i+10;
+		printf("%d", fome);
+
+		printf("batata");
+	}
+	printf("Não sabemos programar bonitinho ainda");
 }
+
