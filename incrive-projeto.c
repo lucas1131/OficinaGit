@@ -42,17 +42,26 @@ int pedro(){
 	//comentario
 }
 
-int mãinnnn(){
-	// todo mundo TODO
-	int var;
-	lasndlkascanf("%d", &var)
-	// todo mundo TODO2
-	askldfnals()
-	abskjdbsa
+int main(){
+	
+	if (wake me up)
+	{
+		wake me up inside;
+	}
+	else
+	{
+		cant wake up;
+	}
+	
+	int fome, paodequeijo = 10;
 
-	aslfkasf
-
-	printf("batata");
-	ankslf
 	iron(euzivam(var));
+	for (i=0;i<paodequeijo;i++){
+		fome = i+10;
+		printf("%d", fome);
+
+		printf("batata");
+	}
+	printf("Não sabemos programar bonitinho ainda");
 }
+
