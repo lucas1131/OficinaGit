@@ -35,4 +35,16 @@ int pedro(){
 }
 int main(){
 	// todo mundo TODO
+/*puti train tati train puti tarararati train
+bolo's recipe
+200g de farinha
+4 ovos
+fermento bioquimico
+chocolate vegano
+bata tudo
+asse
+prontof(esta pronto);
+*/
+holanda();
+holanda(2);
 }
