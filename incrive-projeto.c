@@ -10,6 +10,10 @@ int euzivam(){
 	// todo
 }
 
+int pedro(){
+	//todo
+	//comentario
+}
 int main(){
 	// todo mundo TODO
 }
