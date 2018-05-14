@@ -8,6 +8,7 @@ int ravila(){
 
 int euzivam(){
 	// todo
+	// Olha esse incrivel projeto O.o
 }
 
 int main(){
