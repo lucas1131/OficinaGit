@@ -9,6 +9,9 @@ int ravila(){
 int euzivam(){
 	// todo
 }
+void holanda(){
+ console.readline();
+}
 
 int main(){
 	// todo mundo TODO
