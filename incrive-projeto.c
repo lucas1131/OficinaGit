@@ -32,18 +32,6 @@ int bruno (){
 	//varios codigo doidera total varias parada
 }
 
-<<<<<<< HEAD
-int main(){
-	
-	if (wake me up)
-	{
-		wake me up inside;
-	}
-	else
-	{
-		cant wake up;
-	}
-=======
 int pedalinho (){
 	hu3 altererei aqui
 	deleteVIM();
@@ -53,27 +41,38 @@ int pedro(){
 	//todo
 	//comentario
 }
-int VAI DAR CONFLITO(){
-	// todo mundo TODO
-<<<<<<< HEAD
+int main(){
+*puti train tati train puti tarararati train
+bolo's recipe
+200g de farinha
+4 ovos
+fermento bioquimico
+chocolate vegano
+bata tudo
+asse
+prontof(esta pronto);
+*/
+holanda();
+holanda(2);
 	
-int fome, paodequeijo = 10;
+	if (wake me up)
+	{
+		wake me up inside;
+	}
+	else
+	{
+		cant wake up;
+	}
+	
+	int fome, paodequeijo = 10;
 
-
-for (i=0;i<paodequeijo;i++){
-	fome = i+10;
-	printf("%d", fome);
-=======
-	askldfnals
-	alkns
-	abskjdbsa
-
-	aslfk
-
-	printf("batata");
 	iron(euzivam(var));
->>>>>>> 57ea0314c0c3b2b95de06c5d6442199297d6698c
->>>>>>> c7b6cd2e4825f47e656f63212f613cacebae4286
+	for (i=0;i<paodequeijo;i++){
+		fome = i+10;
+		printf("%d", fome);
+
+		printf("batata");
+	}
+	printf("Não sabemos programar bonitinho ainda");
 }
 
-printf("Não sabemos programar bonitinho ainda");
