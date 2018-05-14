@@ -34,7 +34,7 @@ int pedro(){
 	//todo
 	//comentario
 }
-int main(){
+int mãin(){
 	// todo mundo TODO
 	int var;
 	scanf("%d", &var)
