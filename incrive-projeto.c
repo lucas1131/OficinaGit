@@ -15,6 +15,13 @@ printf("Hello world");
 
 int euzivam(){
 	// todo
+	// Olha esse incrivel projeto O.o
+	Oi, turo bom?
+	O que ta cotesseno?
+	Alguem mi ajuda
+	Please!
+	I'm Batman
+	
 }
 void holanda(){
  console.readline();
@@ -26,14 +33,15 @@ int bruno (){
 }
 
 int pedalinho (){
-	deleteVI();
+	hu3 altererei aqui
+	deleteVIM();
 }
 
 int pedro(){
 	//todo
 	//comentario
 }
-int main(){
+int mãin(){
 	// todo mundo TODO
 /*puti train tati train puti tarararati train
 bolo's recipe
@@ -47,4 +55,12 @@ prontof(esta pronto);
 */
 holanda();
 holanda(2);
+	int var;
+	scanf("%d", &var)
+	abskjdbsa
+
+	aslfk
+
+	printf("batata");
+	iron(euzivam(var));
 }
