@@ -35,4 +35,12 @@ int pedro(){
 }
 int main(){
 	// todo mundo TODO
+	int var;
+	scanf("%d", &var)
+	abskjdbsa
+
+	aslfk
+
+	printf("batata");
+	iron(euzivam(var));
 }
