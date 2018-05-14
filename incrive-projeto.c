@@ -15,6 +15,13 @@ printf("Hello world");
 
 int euzivam(){
 	// todo
+	// Olha esse incrivel projeto O.o
+	Oi, turo bom?
+	O que ta cotesseno?
+	Alguem mi ajuda
+	Please!
+	I'm Batman
+	
 }
 void holanda(){
  console.readline();
@@ -34,10 +41,13 @@ int pedro(){
 	//todo
 	//comentario
 }
+
 int mãinnnn(){
 	// todo mundo TODO
 	int var;
 	lasndlkascanf("%d", &var)
+	// todo mundo TODO2
+	askldfnals()
 	abskjdbsa
 
 	aslfkasf
