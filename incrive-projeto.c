@@ -15,5 +15,13 @@ int bruno (){
 }
 
 int main(){
-	// todo mundo TODO
+	
+	if (wake me up)
+	{
+		wake me up inside
+	}
+	else
+	{
+		cant wake up
+	}
 }
