@@ -10,7 +10,7 @@ int ravila(){
 
 printf("Hello world");
 
-	// todo
+	// todo oioioioio
 }
 
 int euzivam(){
