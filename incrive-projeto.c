@@ -41,10 +41,10 @@ int pedro(){
 	//todo
 	//comentario
 }
-int mãin(){
+int VAI DAR CONFLITO(){
 	// todo mundo TODO
-	int var;
-	scanf("%d", &var)
+	askldfnals
+	alkns
 	abskjdbsa
 
 	aslfk
