@@ -26,7 +26,8 @@ int bruno (){
 }
 
 int pedalinho (){
-	deleteVI();
+	hu3 altererei aqui
+	deleteVIM();
 }
 
 int pedro(){
