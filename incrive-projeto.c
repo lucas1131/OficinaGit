@@ -11,6 +11,7 @@ int euzivam(){
 }
 void holanda(){
  console.readline();
+//c
 }
 
 int main(){
